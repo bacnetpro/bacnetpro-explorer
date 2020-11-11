@@ -1,3 +1,3 @@
-# An open source BACnet Client for Professionals 
+# An open source BACnet Explorer for Professionals 
 
-# 专业级的开源BACnet客户端软件
+# 专业级的开源BACnet浏览器
